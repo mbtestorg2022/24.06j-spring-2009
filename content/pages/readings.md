@@ -50,7 +50,7 @@ From euthanasia to assisted suicide
 
 Emanuel, Ezekiel J. "[The History of Euthanasia Debates in the United States and Britain](http://www.annals.org/content/121/10/793.abstract)." _Annals of Internal Medicine_ 121, no. 10 (1994): 793-802.
 
-"Euthanasia—Degenerated Sympathy." _Boston Medical and Surgical Journal_ 154, no. 12 (1906): 330-331. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit24_06js09_read01_euthanasia))
+"Euthanasia—Degenerated Sympathy." _Boston Medical and Surgical Journal_ 154, no. 12 (1906): 330-331. ([PDF]({{< baseurl >}}/resources/mit24_06js09_read01_euthanasia))
 
 Quill, Timothy. "[Death and Dignity: A Case of Individualized Decision Making](http://www.nejm.org/doi/full/10.1056/NEJM199103073241010)." _New England Journal of Medicine_ 324, no. 10 (1991): 691-694.
 
@@ -308,7 +308,7 @@ Sandel, Michael J. "Bionic Athletes." Chapter 2 in _The Case Against Perfection:
 
 Deardorff, Julie. "[Revving Up the Brain](https://www.chicagotribune.com/news/ct-xpm-2004-03-07-0403070438-story.html)." _Chicago Tribune_, March 7, 2004. 
 
-Greely, Henry, Barbara Sahakian, John Harris, Ronald C. Kessler, Michael Gazzaniga, Philip Campbell, and Martha J. Farah. "Towards Responsible Use of Cognitive-enhancing Drugs by the Healthy." _Nature_ 465 (2008): 702-705. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://neuroethics.upenn.edu/wp-content/uploads/2015/06/EnhancementPolicy.pdf))
+Greely, Henry, Barbara Sahakian, John Harris, Ronald C. Kessler, Michael Gazzaniga, Philip Campbell, and Martha J. Farah. "Towards Responsible Use of Cognitive-enhancing Drugs by the Healthy." _Nature_ 465 (2008): 702-705. ([PDF](http://neuroethics.upenn.edu/wp-content/uploads/2015/06/EnhancementPolicy.pdf))
 
 Talbot, Margaret. "[Brain Gain](http://www.newyorker.com/reporting/2009/04/27/090427fa_fact_talbot?currentPage=all)." _The New Yorker_, April 27, 2009.
 
