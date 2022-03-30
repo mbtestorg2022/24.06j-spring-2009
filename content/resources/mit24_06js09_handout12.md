@@ -4,6 +4,7 @@ description: Handout summarizing key lecture topics on procreation and future pe
   harming-by-creating, and the non-identity problem.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/24-06j-bioethics-spring-2009/95555b81400d9112d0895895b5d4682a_MIT24_06Js09_handout12.pdf
 file_type: application/pdf
+parent_uid: 02691e7c-3d71-8c57-0282-897aed8b1db2
 resourcetype: Document
 title: 'Bioethics Session 12 Handout: T he Non-Identity Problem'
 uid: 95555b81-400d-9112-d089-5895b5d4682a

@@ -4,6 +4,7 @@ description: 'Handout summarizing key lecture topics on the paradox of the heap,
   liar paradox, and the non-identity paradox. '
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/24-06j-bioethics-spring-2009/b80237a2ea4b080de88ba2dda191dafc_MIT24_06Js09_handout13.pdf
 file_type: application/pdf
+parent_uid: 02691e7c-3d71-8c57-0282-897aed8b1db2
 resourcetype: Document
 title: 'Bioethics Session 13 Handout: Non-Identity II'
 uid: b80237a2-ea4b-080d-e88b-a2dda191dafc

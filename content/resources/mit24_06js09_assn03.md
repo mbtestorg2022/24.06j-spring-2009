@@ -3,6 +3,7 @@ content_type: resource
 description: General guidelines and potential topics for a writing assignment on bioethics.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/24-06j-bioethics-spring-2009/7c97ddf056859a2891e0aeefa2947614_MIT24_06Js09_assn03.pdf
 file_type: application/pdf
+parent_uid: 6ba933fe-f965-d0be-35e7-708867847095
 resourcetype: Document
 title: Third Paper Topic
 uid: 7c97ddf0-5685-9a28-91e0-aeefa2947614
